@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
+# Bem-vindo ao meu perfil! 👋
 
 Olá! Meu nome é Felipe, e sou um desenvolvedor iniciante entusiasmado em aprender e contribuir para a comunidade de desenvolvimento de software. Este é o meu espaço no GitHub, onde compartilho meus projetos e experiências no mundo da programação.
 
