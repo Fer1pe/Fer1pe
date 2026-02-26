@@ -32,8 +32,9 @@ My professional goal is to integrate systems, developer scalable backend systems
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" title="n8n"/>
 </p>
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" title="n8n"/>
+
 
 Java • Python • C  
 
