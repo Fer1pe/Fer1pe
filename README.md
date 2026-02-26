@@ -14,8 +14,6 @@
 
 I am a Systems Analysis and Development student with hands-on experience in industrial environments, including CNC machine operation, technical drawing interpretation, and quality control.
 
-My focus is on integrating **technology and industrial processes**, developing solutions that improve efficiency, automation, and data organization.
-
 I am continuously improving my skills in backend development, process automation, and system integration, aiming to build practical and scalable solutions.
 
 ---
