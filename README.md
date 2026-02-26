@@ -47,8 +47,12 @@ Java • Python • C
 
 ### Automation & Data Engineering  
 
+### Data Science Stack
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://cdn.simpleicons.org/seaborn/3776AB" width="40" />
 </p>
 
 - Pandas & NumPy   
