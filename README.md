@@ -1,8 +1,8 @@
 # Hello, I'm Felipe de Souza Pereira  
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Role-Systems%20Analysis%20Student-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Background-Industrial-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Background-Industrial%20Engineering-555555?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Automation-1f6feb?style=flat-square" />
 </p>
 
@@ -10,15 +10,16 @@
 
 ---
 
-## About Me  
+## Professional Overview  
 
-I am a Systems Analysis and Development student with hands-on experience in industrial environments, including CNC machine operation, technical drawing interpretation, and quality control.
+Systems Analysis and Development student with hands-on industrial experience in CNC machining, technical drawing interpretation, and quality control.
 
-I am continuously improving my skills in backend development, process automation, and system integration, aiming to build practical and scalable solutions.
+My professional goal is to integrate systems, developer scalable backend systems, workflow automation, and data-driven solutions that improve operational efficiency.
+
 
 ---
 
-## Tech Stack  
+## Core Stack  
 
 ### Programming  
 <p>
@@ -27,7 +28,11 @@ I am continuously improving my skills in backend development, process automation
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
 </p>
 
-### Backend & Databases  
+Java • Python • C  
+
+---
+
+### Backend & Database  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
@@ -35,20 +40,37 @@ I am continuously improving my skills in backend development, process automation
 
 - Spring Boot  
 - Spring Data JPA  
-- REST APIs  
+- RESTful API development  
 - PostgreSQL  
 
-### Data & Automation  
+---
+
+### Automation & Data Engineering  
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 </p>
 
-- ETL Concepts  
-- n8n (Workflow Automation)  
-- Webhooks & API Integrations  
+- Pandas & NumPy   
+- ETL concepts  
 
-### Tools  
+
+#### n8n – Workflow Automation  
+
+Experience building workflow automations using **n8n** for:
+
+- Webhook-triggered flows  
+- REST API integrations  
+- Automated data synchronization  
+- JSON data transformation  
+- Conditional logic workflows    
+- Integration between backend systems and third-party services  
+
+
+---
+
+### DevOps & Tools  
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
@@ -56,30 +78,28 @@ I am continuously improving my skills in backend development, process automation
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 </p>
 
+Git • GitHub • Docker • Linux • Excel  
+
 ---
 
-## Industrial Experience  
+## Industrial Background  
 
-- CNC machine operation & setup  
+- CNC machine setup & operation  
 - Technical drawing interpretation  
-- Dimensional control & quality inspection  
-- SolidWorks (3D modeling & technical detailing)  
+- Dimensional inspection & quality control  
+- Process discipline and production standards  
+- SolidWorks (3D modeling & technical detailing)
+
+
 
 ---
 
-## Current Focus  
+## Current Technical Focus  
 
-- Backend development  
-- Process automation  
-- System integration  
-
----
-
-## Featured Projects  
-
-- REST API development with Spring Boot  
-- Database integration using Spring Data JPA  
+- Backend 
 - Workflow automation with n8n  
+- API-driven integrations  
+- Scalable system design  
 
 ---
 
@@ -87,7 +107,7 @@ I am continuously improving my skills in backend development, process automation
 
 <p>
   <a href="mailto:felipe.souza217@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/felipe54330/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -105,8 +125,6 @@ I am continuously improving my skills in backend development, process automation
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fer1pe/Fer1pe/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br><br>
-
 ---
 
-Focused on continuous learning and technology applied to industry.
+Focused on backend, automation, and technology applied to industrial. 
