@@ -33,6 +33,7 @@ My professional goal is to integrate systems, developer scalable backend systems
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" title="n8n"/>
+  <img src="https://cdn.simpleicons.org/dassaultsystemes/FF0000" width="40" title="SolidWorks"/>
 </p>
 
 
