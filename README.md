@@ -99,4 +99,14 @@ I am continuously improving my skills in backend development, process automation
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fer1pe/Fer1pe/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fer1pe/Fer1pe/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fer1pe/Fer1pe/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
+
+---
+
 Focused on continuous learning and technology applied to industry.
