@@ -83,8 +83,6 @@ n8n • Webhooks • API Integrations • Workflow Automation • System Synchro
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" title="Microsoft Excel"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" title="Power BI"/>
 </p>
 
 Pandas • NumPy • Excel • Power BI • ETL Concepts • Data Transformation • Data Visualization 
