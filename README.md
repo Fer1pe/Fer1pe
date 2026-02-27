@@ -14,104 +14,110 @@
 
 Systems Analysis and Development student with hands-on industrial experience in CNC machining, technical drawing interpretation, and quality control.
 
-My professional goal is to integrate systems, developer scalable backend systems, workflow automation, and data-driven solutions that improve operational efficiency.
-
+My professional goal is to integrate systems, develop scalable backend architectures, workflow automation pipelines, and data-driven solutions that improve operational efficiency.
 
 ---
 
-## Core Stack  
+# Core Stack  
 
-### Programming  
+## Programming  
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="Visual Studio Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" title="n8n"/>
-  <img src="https://cdn.simpleicons.org/dassaultsystemes/FF0000" width="40" title="SolidWorks"/>
 </p>
 
-
-Java • Python • C • JavaScript • Visual Studio Code • MySQL • HTML5 • CSS3 • Firebase • n8n • SolidWorks  
+Java • Python • C  
 
 ---
 
-### Backend & Database  
+## Web & Frontend  
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+JavaScript • HTML5 • CSS3  
+
+---
+
+## Backend Development  
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
 </p>
 
-- Spring Boot  
-- Spring Data JPA  
-- RESTful API development  
-- PostgreSQL  
+Spring Boot • Spring Data JPA • RESTful APIs • Layered Architecture  
 
 ---
 
-### Automation & Data Engineering  
+## Databases  
 
-### Data Science Stack
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+</p>
+
+PostgreSQL • MySQL • Firebase  
+
+---
+
+## Automation  
+
+<p>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" />
+</p>
+
+n8n • Webhooks • API Integrations • Workflow Automation • System Synchronization  
+
+---
+
+## Data Engineering  
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
 </p>
 
-- Pandas & NumPy   
-- ETL concepts  
-
-
-#### n8n – Workflow Automation  
-
-Experience building workflow automations using **n8n** for:
-
-- Webhook-triggered flows  
-- REST API integrations  
-- Automated data synchronization  
-- JSON data transformation  
-- Conditional logic workflows    
-- Integration between backend systems and third-party services  
-
+Pandas • NumPy • ETL Concepts • Data Transformation  
 
 ---
 
-### DevOps & Tools  
+## Infrastructure & Development Environment  
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </p>
 
-Git • GitHub • Docker • Linux • Excel  
+Git • GitHub • Docker • Linux • VS Code  
 
 ---
 
-## Industrial Background  
+## Industrial Engineering Tools  
 
-- CNC machine setup & operation  
-- Technical drawing interpretation  
-- Dimensional inspection & quality control  
-- Process discipline and production standards  
-- SolidWorks (3D modeling & technical detailing)
+<p>
+  <img src="https://cdn.simpleicons.org/dassaultsystemes/FF0000" width="40" />
+</p>
 
-
+SolidWorks • Technical Drawing • CNC Setup • Dimensional Inspection  
 
 ---
 
 ## Current Technical Focus  
 
-- Backend 
-- Workflow automation with n8n  
-- API-driven integrations  
+- Backend architecture  
+- Workflow automation  
+- API-driven system integration  
 - Scalable system design  
+- Industrial process digitization  
 
 ---
 
@@ -139,4 +145,4 @@ Git • GitHub • Docker • Linux • Excel
 
 ---
 
-Focused on backend, automation, and technology applied to industrial. 
+Focused on backend engineering, automation, and technology applied to industrial systems.
