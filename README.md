@@ -37,7 +37,7 @@ My professional goal is to integrate systems, developer scalable backend systems
 </p>
 
 
-Java • Python • C  
+Java • Python • C • JavaScript • Visual Studio Code • MySQL • HTML5 • CSS3 • Firebase • n8n • SolidWorks  
 
 ---
 
