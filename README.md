@@ -48,9 +48,11 @@ JavaScript • HTML5 • CSS3
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" title="Postman"/>
+  <img src="https://cdn.simpleicons.org/insomnia/4000BF" width="40" title="Insomnia"/>
 </p>
 
-Spring Boot • Spring Data JPA • RESTful APIs • Layered Architecture  
+Spring Boot • Spring Data JPA • RESTful APIs • Layered Architecture • API Testing (Postman & Insomnia)
 
 ---
 
