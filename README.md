@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Automation-1f6feb?style=flat-square" />
 </p>
 
-**Location:** Mogi-Guaçu – SP, Brazil  
+**Location:** SP, Brazil  
 
 ---
 
